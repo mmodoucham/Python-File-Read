@@ -1,0 +1,4 @@
+My first name is John.
+My last name is Doe.
+I am 50 years old.
+I stay in Istanbul.
